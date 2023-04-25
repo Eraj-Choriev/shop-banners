@@ -1,0 +1,180 @@
+body {
+
+ background-image: url(/pages/business-man-illustration_1150-58986.avif);
+ width: 100%;
+ height: 800px;;
+}
+
+
+h1{
+    color: #fff;
+    padding-bottom: 2rem;
+    font-weight: bold;
+  }
+  a{
+    color: #333;
+  }
+  a:hover{
+    color: #E8D426;
+    text-decoration: none;
+  }
+  .form-control:focus {
+  
+      color: #000;
+      background-color: #fff;
+      border:2px solid #E8D426;
+      outline: 0;
+      box-shadow: none;
+  
+  }
+  
+  .btn{
+    background: #E8D426;
+    border: #E8D426;
+  }
+  .btn:hover {
+    background: #E8D426;
+    border: #E8D426;
+  }
+  
+  
+  .container-3 {
+  
+   
+    width: 200px;
+    height: 100px;
+    height: 738px;
+    width: 589px;
+    left: 795px;
+    top: 56px;
+    border-radius: 25px;
+    margin-left: 70px;
+    margin-top: 100px;
+    background-color:#FFFFFF ;
+  
+  
+  }
+  
+  .cube {
+  
+    
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    padding-top: 60px;
+    
+  
+  }
+  
+  .form-control.text-lowercase-1 {
+  
+    height: 40px;
+    width: 437px;
+    left: 0px;
+    top: 25px;
+    border-radius: 6px;
+    margin-left: 70px;
+    
+  
+  }
+  
+  .for-1 {
+   
+  margin-left: 70px;
+  font-family: 'Poppins';
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 21px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  
+  
+  
+  }
+  
+  
+  .phone {
+  
+  height: 46px;
+  width: 437px;
+  left: 0px;
+  top: 85px;
+  border-radius: 6px;
+  padding-left: 70px;
+  padding-top: 10px;
+  
+  
+  }
+  
+  
+  
+  
+  .btn.btn-light {
+  
+    height: 46px;
+    width: 437px;
+    left: 0px;
+    top: 85px;
+    border-radius: 6px;
+    background-color: #191C1D; 
+    color: #FFFFFF;
+   
+  }
+
+
+
+
+
+  
+  .dec {
+  
+    font-family: 'Poppins';
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+   
+    
+  
+  }
+  
+  .my {
+  
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+  
+  }
+  
+  .btn.btn-dark-2 {
+  
+  
+    
+    
+    background-color: #FFFFFF;
+    border-color:#7B7979;
+    height: 46px;
+    width: 437px;
+    left: 0px;
+    top: 85px;
+    border-radius: 6px;
+    margin-left: 70px;
+  
+    
+    
+  
+  }
+  
+  
+  .page {
+  
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-top: 100px;
+  
+  }
